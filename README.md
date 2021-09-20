@@ -1,8 +1,8 @@
-- 👋 Herrro , my name is Scrapie a Computer Science Undergrad,
-- 👀 I do intrest in coding and usually motivate myself to learn different languages.
-- 🌱 Currently i'm learning Java , Python , and going into dept with Arduino and soon will start on game dev.
-- 💞️ Currently due to Studies collabration is not in mind.
-- 📫 if you have any issues or questions do pop me at : ~Currently Not avaliable~
+Herrro, my name is Scrapie a Computer Science Undergrad that does coding and content creation on the side.
+I'm currently learning Java , python and arduino with game dev in mind for the future, 
+sooo colab is not in mind due to studeies buut if you do want to talk or just chit chat together pop me a message
+on my discord : HooDini #7356 
+I don't mind leanding a hand if needed ^-^ . any questions or help i can give pop me a message ^-^
 
 <!---
 Scrap-H/Scrap-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
